@@ -93,4 +93,4 @@ For questions or issues, please open an issue on GitHub.
 
 ## From Chicago
 
-This tool was made for and by people in chciago. Stand together and protect yourself.
+This tool was made for and by people in Chicago. Stand together and protect yourself.
